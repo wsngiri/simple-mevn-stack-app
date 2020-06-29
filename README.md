@@ -1,4 +1,4 @@
-# mevn-app
+# simple-mevn-stack-app
 
 ## Project setup
 ```
