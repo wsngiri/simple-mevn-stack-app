@@ -6,10 +6,10 @@
         <router-link to="/" class="nav navbar-brand float-left">MEVN Stack Example</router-link>
         <ul class="nav navbar-nav flex-row float-right">
           <li class="nav-item">
-            <router-link class="nav-link pr-3" to="/">Create Student</router-link>
+            <router-link class="btn btn-primary nav-link pr-3" to="/">Create Student</router-link>
           </li>
           <li>
-            <router-link class="nav-link" to="/view">View Student</router-link>
+            <router-link class="btn btn-success nav-link" to="/view">View Student</router-link>
           </li>
         </ul>
       </div>
@@ -20,4 +20,3 @@
     </div>
   </div>
 </template>
-
